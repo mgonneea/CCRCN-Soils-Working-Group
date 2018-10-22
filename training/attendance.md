@@ -11,3 +11,6 @@ Hey this is Jim.  I want to become a master GITter.
   after a line feed and two spaces
 
 Samantha Chapman- Hoping to learn to collaborate via GitHub
+
+Brandon here. I want to learn to play well with others.
+  
