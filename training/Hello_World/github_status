@@ -1,0 +1,11 @@
+October 22, 2018
+11:09 Eastern Daylight TimeBackground jobs remain paused as we near completion of validation of data consistency.
+09:18 Eastern Daylight TimeWe are validating the consistency of information across all data stores. Webhooks and Pages builds remain paused.
+07:56 Eastern Daylight TimeThe majority of restore processes have completed. We anticipate all data stores will be fully consistent within the next hour.
+05:47 Eastern Daylight TimeWe continue to monitor restores which are taking longer than anticipated. We estimate they will be caught up in an hour and a half.
+04:19 Eastern Daylight TimeOur restore operations are still on track to serve consistent data within the hour. We've posted an update at https://blog.github.com/2018-10-21-october21-incident-report/.
+03:35 Eastern Daylight TimeOur restore operations are proceeding as expected, on track for serving fully consistent data within the next 1.5 hours.
+02:51 Eastern Daylight TimeWe are currently in the later stages of a restore operation, with the aim of serving fully consistent data within the next 2 hours.
+02:18 Eastern Daylight TimeWe continue work to repair a data storage system for GitHub.com. You may see inconsistent results during this process.
+01:05 Eastern Daylight TimeWe continue working to repair a data storage system for GitHub.com. You may see inconsistent results during this process.
+00:12 Eastern Daylight TimeWe are continuing work to repair a data storage system for GitHub.com. You may see inconsistent results during this process.
