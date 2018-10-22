@@ -9,3 +9,5 @@ Lauren Brown - I'm hoping to learn best practices for data management.
 Hey this is Jim.  I want to become a master GITter. 
 
   after a line feed and two spaces
+
+Samantha Chapman- Hoping to learn to collaborate via GitHub
